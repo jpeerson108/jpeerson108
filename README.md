@@ -12,7 +12,7 @@ With a strong foundation in visual design, I’m on a mission to become a highly
 🌱 **Future Interests:** Python, TypeScript, React, Java, Next.js, Vue, Node, Three.js, AWS
 
 ### 🧠 What I Bring to the Table
-- **Creative-to-code fluency:** Whether designing in Adobe CC, prototyping in Figma, or developing in code, I understand the full creative process and how to execute at every stage.<br>
+- **End-to-end creative fluency:** Whether designing in Adobe CC, prototyping in Figma, or developing in code, I understand the full creative process and how to execute at every stage.<br>
 - **Killer design style:** My obsession with the latest design trends, techniques, and methods allows me to continually stay ahead of the curve and deliver design excellence.<br>
 - **Strong communication skills:** I’m comfortable collaborating across teams, leading meetings, public speaking, and promoting ideas with clarity and confidence.<br>
 - **Project and time management:** I'm skilled at balancing competing priorities, working independently, or thriving as part of a team.<br>
