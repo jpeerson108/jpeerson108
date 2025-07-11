@@ -1,5 +1,5 @@
 # Hi, I’m Jaret Peerson!
-With a strong foundation in visual design, I’m on a mission to become a highly skilled front-end developer. I aim to take projects from 0 to 1, or 1 to 100. My design-to-dev fluency, lean mindset, and strong communication skills make me uniquely valuable on both creative and engineering teams.
+As a designer and creative developer, I bridge design and development, taking ideas from 0 -> 1 or 1 -> 100. With roots in print and editorial design, I now focus on building award-winning websites, crafting scalable brand systems, and creating thoughtful digital experiences with structure and style.
 
 💬 Reach me at: [contact@jaretpeerson.com](mailto:contact@jaretpeerson.com)  
 🌐 Visit my site: [www.jaretpeerson.com](http://www.jaretpeerson.com)
