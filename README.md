@@ -9,7 +9,7 @@ As a designer and creative developer, I bridge the gap between aesthetic and fun
 - **Development:** HTML, CSS, JavaScript *(actively learning)*, GSAP, LottieFiles
 - **Build:** Webflow, VS Code, Vercel
 
-🌱 **Future Interests:** Python, TypeScript, React, Java, Next.js, Vue, Node, Three.js, AWS
+🌱 **Growing Interests:** Python, TypeScript, React, Java, Next.js, Vue, Node, Three.js, AWS
 
 ### 🧠 What I Bring to the Table
 - **End-to-end creative fluency:** Whether designing in Adobe CC, prototyping in Figma, or developing in code, I understand the full creative process and how to execute at every stage.<br>
