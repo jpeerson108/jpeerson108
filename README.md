@@ -1,5 +1,5 @@
 # Hi, I’m Jaret Peerson!
-As a designer and creative developer, I bridge design and development, taking ideas from 0 -> 1 or 1 -> 100. With roots in print and editorial design, I now focus on building award-winning websites, crafting scalable brand systems, and creating thoughtful digital experiences with structure and style.
+As a designer and creative developer, I bridge design and development, taking ideas from 0 -> 1 or 1 -> 100. With roots in print and editorial design, I now focus on crafting scalable brand systems, building award-winning websites, and creating thoughtful digital experiences with structure and style.
 
 💬 Reach me at: [contact@jaretpeerson.com](mailto:contact@jaretpeerson.com)  
 🌐 Visit my site: [www.jaretpeerson.com](http://www.jaretpeerson.com)
