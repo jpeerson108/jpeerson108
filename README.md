@@ -7,7 +7,7 @@ As a designer and creative developer, I bridge the gap between aesthetic and fun
 ### 🛠️ Tech Stack
 - **Design:** Figma, Photoshop, Illustrator, InDesign, After Effects
 - **Development:** HTML, CSS, JavaScript *(actively learning)*, GSAP, LottieFiles
-- **Build:** VS Code, Webflow, Vercel
+- **Build:** VS Code, Webflow, GitHub, Vercel
 
 🌱 **Growing Interests:** Python, React, Java, Next.js, TypeScript, Vue, Node, Three.js, AWS
 
