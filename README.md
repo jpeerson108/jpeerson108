@@ -8,7 +8,7 @@ As a designer and creative developer, I bridge the gap between aesthetic and fun
 - **Languages:** HTML5, CSS3, JavaScript, GSAP
 - **Design:** Figma, Adobe CC, Webflow, Lottie
 - **Development:** VS Code, Terminal, Node.js, GitHub
-- **Deployment:** NPM, Vercel, Parcel, Webpack
+- **Deployment:** NPM, Vercel, Vite, Parcel, Webpack
 - **Interests:** Python, React, Next.js, Angular
 
 🌱 **Growing Interests:** Python, React, Java, Next.js, TypeScript, Vue, Node, Three.js, AWS
