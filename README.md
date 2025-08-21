@@ -5,9 +5,11 @@ As a designer and creative developer, I bridge the gap between aesthetic and fun
 🌐 Visit my site: [www.jaretpeerson.com](http://www.jaretpeerson.com)
 
 ### 🛠️ Tech Stack
-- **Design:** Figma, Photoshop, Illustrator, InDesign, After Effects
-- **Development:** HTML, CSS, JavaScript *(actively learning)*, GSAP, LottieFiles
-- **Build:** VS Code, Webflow, GitHub, Vercel
+- **Languages:** HTML5, CSS3, JavaScript, GSAP
+- **Design:** Figma, Adobe CC, Webflow, Lottie
+- **Development:** VS Code, Terminal, Node.js, GitHub
+- **Deployment:** NPM, Vercel, Parcel, Webpack
+- **Interests:** Python, React, Next.js, Angular
 
 🌱 **Growing Interests:** Python, React, Java, Next.js, TypeScript, Vue, Node, Three.js, AWS
 
