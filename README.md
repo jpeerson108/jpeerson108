@@ -9,6 +9,4 @@ As a designer and creative developer, I bridge the gap between aesthetic and fun
 - **Design:** Figma, Adobe CC, Webflow, Lottie
 - **Development:** VS Code, Terminal, Node.js, GitHub
 - **Deployment:** NPM, Vercel, Vite, Parcel, Webpack
-- **Interests:** Python, React, Next.js, Angular
-
-🌱 **Growing Interests:** Python, React, Java, Next.js, TypeScript, Vue, Three.js, AWS
+- **Interests:** React, Next.js, Angular, Vue.js, Svelte, Python
