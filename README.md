@@ -5,8 +5,8 @@ As a designer and creative developer, I bridge the gap between aesthetic and fun
 🌐 Visit my site: [www.jaretpeerson.com](http://www.jaretpeerson.com)
 
 ### 🛠️ Tech Stack
-- **Languages:** HTML5, CSS3, JavaScript, GSAP
+- **Languages:** HTML5, CSS3, JavaScript
 - **Design:** Figma, Webflow, Adobe CC, Lottie
-- **Development:** VS Code, NPM, Terminal, Node, GitHub
+- **Development:** VS Code, GitHub, NPM, Node, Terminal, GSAP, jQuery
 - **Deployment:** Vercel, Vite, Parcel, Webpack
-- **Interests:** React, Next.js, Angular, Vue.js, Svelte, Python
+- **Interests:** Next.js, React, Angular, Vue.js, Svelte
